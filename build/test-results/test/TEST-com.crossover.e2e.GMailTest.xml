@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crossover.e2e.GMailTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-02T12:36:13" hostname="Rohiths-MacBook-Pro.local" time="19.305">
+  <properties/>
+  <testcase name="testSendEmail" classname="com.crossover.e2e.GMailTest" time="19.305"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 14774
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1593693373.778][WARNING]: FromSockAddr failed on netmask
+[1593693373.778][WARNING]: FromSockAddr failed on netmask
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
